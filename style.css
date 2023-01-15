@@ -4,7 +4,7 @@ body{
 }
 
 #box-1  {
-    
+    background-color: white;
     display: flex;
     width: 550px;
     height: 400px;
